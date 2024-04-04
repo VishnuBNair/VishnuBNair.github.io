@@ -1,0 +1,1155 @@
+{
+  "m_data": [
+    {
+      "sloka_id": 1,
+      "sloka_value": "अन्नमयादन्नमयमथवा चैतन्यमेव चैतन्यात्।\nयतिवर दूरीकर्तुं वाञ्छसि किं ब्रूहि गच्छ गच्छेति॥\n",
+      "sloka_data": {
+        "padachedam":[
+         {
+          "padachedam_id": 1,
+          "padachedam_data": "अन्नमयात्",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "अन्नमयात् - अन्न मयट् पुं 5 एक"
+         },
+         {
+          "padachedam_id": 2,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "अन्नमयात्+अन्नमयम् [अन्नमयात्,अन्नमयम्,अन्नमयादन्नमयम्,जश्त्व,झलां जशोऽन्ते (8.2.39)]"
+         },
+         {
+          "padachedam_id": 3,
+          "padachedam_data": "अन्नमयम्",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "अन्नमयम्-अन्न मयट् नपुं 2 एक"
+         },
+         {
+          "padachedam_id": 4,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "अन्नमयम्+अथवा  [अन्नमयम्,अथवा,अन्नमयमथवा,डीफाल्ट्]"
+         },
+         {
+          "padachedam_id": 5,
+          "padachedam_data": "अथवा",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "अथवा -अव्य्"
+         },
+         {
+          "padachedam_id": 6,
+          "padachedam_data": "चैतन्यम्",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "चैतन्यम् - चैतन्य नपुं 2 एक"
+         },
+         {
+          "padachedam_id": 7,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "चैतन्यम्+एव [चैतन्यम्,एव,चैतन्यमेव,डीफाल्ट्]"
+         },
+         {
+          "padachedam_id": 8,
+          "padachedam_data": "एव",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "एव - एव अव्य्"
+         },
+         {
+          "padachedam_id": 9,
+          "padachedam_data": "चैतन्यात्।",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "चैतन्यात् - चैतन्य नपुं 5 एक"
+         },
+         {
+          "padachedam_id": 10,
+          "padachedam_data": "यतिवर",
+          "padachedam_click_type": 2,
+          "padachedam_click_data": "s1p1.png"
+         },
+         {
+          "padachedam_id": 11,
+          "padachedam_data": "दूरीकर्तुं",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": " दूरीकर्तुं -दूरी_ कृ3 अव्य् तुमुन् डुकृञ् तनादिः"
+         },
+         {
+          "padachedam_id": 12,
+          "padachedam_data": "वाञ्छसि",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "वाञ्छसि -वाछ् कर्तरि लट् म एक परस्मैपदी भ्वादिः"
+         },
+         {
+          "padachedam_id": 13,
+          "padachedam_data": "किं",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "किं-किम् अव्य्"
+         },
+         {
+          "padachedam_id": 14,
+          "padachedam_data": "ब्रूहि",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": " ब्रूहि-ब्रू कर्तरि लोट् म एक परस्मैपदी अदादिः"
+         },
+         {
+          "padachedam_id": 15,
+          "padachedam_data": "गच्छ",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "गच्छ - गम् कर्तरि लोट् म एक परस्मैपदी भ्वादिः"
+         },
+         {
+          "padachedam_id": 16,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "गच्छ+इति [गच्छ इति,इति,गच्छ इतीति,सवर्णदीर्घ,अकः सवर्णे दीर्घः (6.1.101)]"
+         },
+         {
+          "padachedam_id": 17,
+          "padachedam_data": "इति॥",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "इति - इति अव्य्"
+         }
+        ],
+        "anvaya":[
+         {
+          "anvaya_id": 1,
+          "anvaya_data": "यतिवर ! ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "यति-वर- वर पुं 8 एक "
+         },
+         {
+          "anvaya_id": 2,
+          "anvaya_data": "अन्नमयात्",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अन्नमयात् - अन्न मयट् पुं 5 एक"
+         },
+         {
+          "anvaya_id": 3,
+          "anvaya_data": "अन्नमयम्",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अन्नमयात् - अन्न मयट् पुं 5 एक"
+         },
+         {
+          "anvaya_id": 4,
+          "anvaya_data": "अथवा",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अथवा -अव्य्"
+         },
+         {
+          "anvaya_id": 5,
+          "anvaya_data": "चैतन्यम्",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "चैतन्यम् - चैतन्य नपुं 2 एक"
+         },
+         {
+          "anvaya_id": 6,
+          "anvaya_data": "एव",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "एव - एव अव्य्"
+         },
+         {
+          "anvaya_id": 7,
+          "anvaya_data": "चैतन्यात्",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "चैतन्यात् - चैतन्य नपुं 5 एक"
+         },
+         {
+          "anvaya_id": 8,
+          "anvaya_data": "दूरीकर्तुं",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": " दूरीकर्तुं -दूरी_ कृ3 अव्य् तुमुन् डुकृञ् तनादिः"
+         },
+         {
+          "anvaya_id": 9,
+          "anvaya_data": "वाञ्छसि (त्वं) ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "वाञ्छसि -वाछ् कर्तरि लट् म एक परस्मैपदी भ्वादिः"
+         },
+         {
+          "anvaya_id": 10,
+          "anvaya_data": "गच्छ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "गच्छ - गम् कर्तरि लोट् म एक परस्मैपदी भ्वादिः"
+         },
+         {
+          "anvaya_id": 11,
+          "anvaya_data": "गच्छ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "गच्छ-गम् कर्तरि लोट् म एक परस्मैपदी भ्वादिः"
+         },
+         {
+          "anvaya_id": 12,
+          "anvaya_data": "इति",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "इति - इति अव्य्"
+         },
+         {
+          "anvaya_id": 13,
+          "anvaya_data": "किं",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "किं-किम् अव्य्"
+         },
+         {
+          "anvaya_id": 14,
+          "anvaya_data": "ब्रूहि।",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": " ब्रूहि-ब्रू कर्तरि लोट् म एक परस्मैपदी अदादिः"
+         }
+        ],
+        "vakyanam":
+         {
+          "english_data": "He who, in his direct experience of the immaculate Supreme- Bliss-Eternal, has come to the firm understanding that the entire universe is but an extensive play of pure Consciousness, all projected by his 'ignorance' expressed in the three moods of his mind, while he himself is but that Brahman-he alone is my Guru, be he a sweeper, be he a brāhmana.",
+          "sanskrit_data": "अस्यार्थः अद्यते यज्जनैस्तदन्नम्, अदन्ति च भूतानि यत्तदन्नम्, 'अद्भक्षणे' इति धातोरन्नशब्दस्योत्पन्नत्वात् । 'अद्यतेत्ति च भूतानि तस्मादन्नं तदुच्यत इति' इति श्रुतेः । तदन्नमयस्तद्विकारस्तत्प्रधानो वा स्थूलदेहोऽन्नमय इत्युच्यते । तस्मादन्नमयात् चण्डालत्वजातिविशिष्यत् विप्रत्वजातिविशिष्टाद्वा अन्नमयम् । उक्तलक्षणम् स्थूलदेहम्\nअन्यतरजातिविशिष्टं दूरीकर्तुं दूरतः परिहृत्य गन्तुं हे! द्विजवर !\nजन्मना जायते शूद्रः कर्मणा जायते द्विजः ।\nवेदाध्यायी भवेद्विप्रो ब्रह्म जानाति ब्राह्मणः ।।\nगच्छ गच्छेति वचसा वाञ्छसि अभिलषसि, मन:पूर्वकत्वाद्वा- ग्व्यापारस्य । यद्धि मनसा ध्यायति तद्वाचा वदति । 'वाङ्मे मनसि प्रतिष्ठिता, मनो मे वाचि प्रतिष्ठितम्' । इत्यादि श्रुतिभ्यो वाग्व्यापारस्य मनोव्यापारपूर्वकत्वं सिद्धम् ।\nतदुक्तं भाष्यकृता श्रीविष्णुसहस्रनामभाष्ये 'मनसा वा अग्रे सङ्कल्पयत्यथ वाचा व्यवहरति । यद्धि मनसा ध्यायति तद्वाचा वदतीति श्रुतिभ्यां संस्मरणं ध्यानं च नामकीर्तन एवान्तर्भूतम्\\n\nकिं ब्रूहीति काकुस्वरेण आक्षेपः कृतः । पक्षान्तरम् अवलम्बयति अथवेति । अथवा उत चैतन्यम् एव । चेतनम् एव चैतन्यम्। न तु भिन्नश्चेतनधर्मः । चेतनस्याद्वितीयत्वेन व्यक्तिभेदस्यानङ्गीकारेण जातेरनङ्गीकारात्।\nतच्च चैतन्यं कूटस्थं प्रतिबिम्बरूपम् अवच्छिन्नरूपम् एव । नान्यत् । तादृशादेव चैतन्यात् पूर्वोक्तोभयजातिविशिष्टस्थूलदेहान्तर्वर्तिनः दूरीकर्तुं वाञ्छसि किं ब्रूहि गच्छ गच्छेति पूर्ववदनुषज्यते ।\nएवं द्वेधा विकल्प्य द्वितीयविकल्पमादौ परिहरन् प्रतिबिम्बावच्छिन्न- चैतन्याभ्यां तयोश्चैतन्ययोर्दूरीकरणेच्छा न युज्यत इति क्रमेण सदृष्यन्तम् आह\n",
+          "malayalam_data": "ഹേ, ദ്വിജന്മാരിൽ ശ്രേഷ്‌ഠനായ അങ്ങ് 'മാറിപ്പോകു മാറിപ്പോകു' എന്ന് പറയുന്നതിൽ നിന്ന് അങ്ങ് ആഗ്രഹിക്കുന്നത് എന്താണ്? ജഡമായ അന്നമയത്തിൽനിന്നും ജഡമായ അന്നമയം മാറിപ്പോകണം എന്നാണോ അല്ലെങ്കിൽ ആത്മാവ് ആത്മാവിൽനിന്നും മാറിപ്പോകണമെന്നാണോ അങ്ങ് ഉദ്ദേശിക്കുന്നത്."
+         }
+        }
+    },
+    {
+      "sloka_id": 2,
+      "sloka_value": "प्रत्यग्वस्तुनि निस्तरङ्गसहजानन्दावबोधाम्बुधौ\nविप्रोऽयं श्वपचोऽयमित्यपि महान्कोऽयं विभेदभ्रमः।\nकिं गङ्गाम्बुनि बिम्बितेऽम्बरमणौ चाण्डालवीथीपयः\nपूरे वाऽन्तरमस्ति काञ्चनघटीमृत्कुम्भयोर्वाऽम्बरे॥\n",
+      "sloka_data": {
+        "padachedam":[
+         {
+          "padachedam_id": 1,
+          "padachedam_data": "प्रत्यक्-वस्तुनि",
+          "padachedam_click_type": 2,
+          "padachedam_click_data": "s1p1.png"
+         },
+         {
+          "padachedam_id": 2,
+          "padachedam_data": "निस्तरङ्ग-सहज-आनन्द-अवबोध-अम्बुधौ",
+          "padachedam_click_type": 2,
+          "padachedam_click_data": "s1p1.png"
+         },
+         {
+          "padachedam_id": 3,
+          "padachedam_data": "विप्रः",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 4,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "विप्रः+अयं [विप्रः,अयं,विप्रोऽयं,रुत्व -> उत्व-> गुण-> पूर्वरुप,ससजुषो रुः (8.2.66)-> अतो रोरप्लुतादप्लुते (6.1.113)-> आद् गुणः (6.1.87)-> एङः पदान्तादति (6.1.109)]"
+         },
+         {
+          "padachedam_id": 5,
+          "padachedam_data": "अयं ",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 6,
+          "padachedam_data": "श्वपचः",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 7,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "श्वपचः+अयम् [श्वपचः,अयम्,श्वपचोऽयम्,रुत्व -> उत्व-> गुण-> पूर्वरुप,ससजुषो रुः (8.2.66)-> अतो रोरप्लुतादप्लुते (6.1.113)-> आद् गुणः (6.1.87)-> एङः पदान्तादति (6.1.109)]"
+         },
+         {
+          "padachedam_id": 8,
+          "padachedam_data": "अयम्",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 9,
+          "padachedam_data": "अयम्",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 10,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "अयम्+इति [अयम् ,इति,अयमिति,डीफाल्ट्]"
+         },
+         {
+          "padachedam_id": 11,
+          "padachedam_data": "इति",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 12,
+          "padachedam_data": "इति",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 13,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "इति+अपि [इति,अपि,इत्यपि,यण्,इको यणचि (6.1.77]"
+         },
+         {
+          "padachedam_id": 14,
+          "padachedam_data": "अपि",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 15,
+          "padachedam_data": "महान्",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 16,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "महान्+कः[महान्,कः,महाङ्कः,डेफाल्ट्] "
+         },
+         {
+          "padachedam_id": 17,
+          "padachedam_data": "कः",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 18,
+          "padachedam_data": "कः",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 19,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "कः+अयं [ कः,अयं,कोऽयं,रुत्व -> उत्व-> गुण-> पूर्वरुप,ससजुषो रुः (8.2.66)-> अतो रोरप्लुतादप्लुते (6.1.113)-> आद् गुणः (6.1.87)-> एङः पदान्तादति (6.1.109)]"
+         },
+         {
+          "padachedam_id": 20,
+          "padachedam_data": "अयं",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 21,
+          "padachedam_data": "विभेद-भ्रमः",
+          "padachedam_click_type": 2,
+          "padachedam_click_data": "s1p1.png"
+         },
+         {
+          "padachedam_id": 22,
+          "padachedam_data": "बिम्बिते",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 23,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "बिम्बिते+अम्बरमणौ [बिम्बिते,अम्बरमणौ,बिम्बिते अम्बरमणौ,प्रगृह्य-सन्धिः,ईदूदेद्द्विवचनम् प्रगृह्यम् (1.1.11)-> प्लुतप्रगृह्या अचि नित्यम् (6.1.125); *बिम्बिते पदस्य द्विवचन-विश्लेषणम् अधिकृत्य ] "
+         },
+         {
+          "padachedam_id": 24,
+          "padachedam_data": "अम्बरमणौ ",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 25,
+          "padachedam_data": "चाण्डाल-वीथी-पयः",
+          "padachedam_click_type": 2,
+          "padachedam_click_data": "s1p1.png"
+         },
+         {
+          "padachedam_id": 26,
+          "padachedam_data": "वा",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 27,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "वा+अन्तरम् [वा,अन्तरम्,वान्तरम्,सवर्णदीर्घ,अकः सवर्णे दीर्घः (6.1.101) ]"
+         },
+         {
+          "padachedam_id": 28,
+          "padachedam_data": "अन्तरम्",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 29,
+          "padachedam_data": "अन्तरम्",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 30,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "अन्तरम्+अस्ति [अन्तरम्,अस्ति,अन्तरमस्ति,डीफाल्ट् ]"
+         },
+         {
+          "padachedam_id": 31,
+          "padachedam_data": "अस्ति ",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 32,
+          "padachedam_data": "काञ्चन-घटी-मृत्-कुम्भयोः",
+          "padachedam_click_type": 2,
+          "padachedam_click_data": "s1p1.png"
+         },
+         {
+          "padachedam_id": 33,
+          "padachedam_data": "कुम्भयोः",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 34,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "कुम्भयोः+वा [कुम्भयोः,वा,कुम्भयोर्वा,रेफ-सन्धिः,ससजुषो रुः (8.2.66) ]"
+         },
+         {
+          "padachedam_id": 35,
+          "padachedam_data": "वा",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 36,
+          "padachedam_data": "वा",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 37,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "वा+अम्बरे [वा,अम्बरे,वाम्बरे,सवर्णदीर्घ,अकः सवर्णे दीर्घः (6.1.101)]"
+         },
+         {
+          "padachedam_id": 38,
+          "padachedam_data": "अम्बरे",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         }
+        ],
+        "anvaya":[
+         {
+          "anvaya_id": 1,
+          "anvaya_data": "गङ्गाम्बुनि",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "गङ्गाम्बुनि - गङ्गाम्बु नपुं 7 एक"
+         },
+         {
+          "anvaya_id": 2,
+          "anvaya_data": " वा ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "वा - वा अव्य्"
+         },
+         {
+          "anvaya_id": 3,
+          "anvaya_data": "चण्डालवाटीपयः",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": " चाण्डालवीथीपयः- चाण्डालवीथीपयस् नपुं 1 एक"
+         },
+         {
+          "anvaya_id": 4,
+          "anvaya_data": "पूरे ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "पूरे -  पूर पुं 7 एक"
+         },
+         {
+          "anvaya_id": 5,
+          "anvaya_data": "बिम्बिते ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "बिम्बिते - बिम्बित पुं 7 एक"
+         },
+         {
+          "anvaya_id": 6,
+          "anvaya_data": "अम्बरमणौ ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अम्बरमणौ-अम्बरमणि पुं 7 एक"
+         },
+         {
+          "anvaya_id": 7,
+          "anvaya_data": "किम्",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "किं -किम् अव्य्"
+         },
+         {
+          "anvaya_id": 8,
+          "anvaya_data": "अन्तरम्",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अन्तरम् - अन्तर पुं 2 एक"
+         },
+         {
+          "anvaya_id": 9,
+          "anvaya_data": "अस्ति?",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अस्ति  - अस् कर्तरि लट् प्र एक परस्मैपदी अदादिः"
+         },
+         {
+          "anvaya_id": 10,
+          "anvaya_data": "काञ्चनघटीमृत्कुम्भयोः",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": " काञ्चनघटीमृत्कुम्भयो- काञ्चनघटीमृत्कुम्भ पुं 7 द्वि"
+         },
+         {
+          "anvaya_id": 11,
+          "anvaya_data": " वा",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "वा - वा अव्य्"
+         },
+         {
+          "anvaya_id": 12,
+          "anvaya_data": "अम्बरे (किम् अन्तरम् अस्ति ) ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अम्बरे - अम्बर नपुं 7 एक"
+         },
+         {
+          "anvaya_id": 13,
+          "anvaya_data": "निस्तरङ्गसहजानन्दावबोधाम्बुधौ ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "निस्तरङ्गसहजानन्दावबोधाम्बुधौ- निस्तरङ्गसहजानन्दावबोधाम्बुधि पुं 7 एक"
+         },
+         {
+          "anvaya_id": 14,
+          "anvaya_data": "प्रत्यग्वस्तुनि",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "प्रत्यग्वस्तुनि- प्रत्यग्वस्तु नपुं 7 एक"
+         },
+         {
+          "anvaya_id": 15,
+          "anvaya_data": "अयं",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अयम् - इदम् सर्व पुं 1 एक"
+         },
+         {
+          "anvaya_id": 16,
+          "anvaya_data": "विप्रः",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "विप्रः - विप्र पुं 1 एक"
+         },
+         {
+          "anvaya_id": 17,
+          "anvaya_data": " अयं",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अयं - अय पुं 2 एक "
+         },
+         {
+          "anvaya_id": 18,
+          "anvaya_data": "श्वपचः",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "श्वपचः - श्वपच पुं 1 एक"
+         },
+         {
+          "anvaya_id": 19,
+          "anvaya_data": " इति",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "इति  -  इति अव्य्"
+         },
+         {
+          "anvaya_id": 20,
+          "anvaya_data": "अपि",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अपि - अपि अव्य्"
+         },
+         {
+          "anvaya_id": 21,
+          "anvaya_data": "कः",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "कः - क पुं 1 एक"
+         },
+         {
+          "anvaya_id": 22,
+          "anvaya_data": "अयं ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अयं  - इदम्  सर्व पुं 1 एक"
+         },
+         {
+          "anvaya_id": 23,
+          "anvaya_data": "महान्",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "महान् - महत् पुं 1 एक"
+         },
+         {
+          "anvaya_id": 24,
+          "anvaya_data": "विभेदभ्रमः (भवति) ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "विभेदभ्रमः - विभेदभ्रम भ्रम्1 घञ् भ्रमुँ भ्वादिः भ्रम पुं 1 एक"
+         }
+        ],
+        "vakyanam":
+         {
+          "english_data": "Is there any difference in the 'jewel of the sky' when it is reflected in the waters of the Ganga or in a ditch in the way-side of a slum? Is there any difference in the space as such, be it in a golden pot or in a mud-pot? In the ocean of the self-existing Blissful Consciousness, in the inner Self, devoid of thought ripples, how can there be this delusory distinction: 'this is a brahmana and this is a dog-eater?'",
+          "sanskrit_data": "गङ्गाम्बुनि आर्यावर्तक्षेत्रे काश्यादिपुण्यनगरप्रान्ते देवतामनोहारिणी विष्णुपादोद्भवा भागीरथी जाह्नवीत्यपरपर्यायनाम्नी विलसति गङ्गा, तस्याः सर्वपापक्षयकरं परम्परया मोक्षप्रापकं च यदम्बु जलं तस्मिन्, अम्बरमणौ अम्बरे नभसि मणिरिव दीप्यते अतिशयेन विराजमानत्वाद् अम्बरमणिः सूर्यः तस्मिन् बिम्बिते प्रतिबिम्बिते सति प्रतिच्छायया दृश्यमाने सतीति यावत् ।\nतदेव चण्डालवाटीपयः पूरे चण्डालाः श्वपचाः तेषां वाटी वीथिः तस्यां यत्पयःपूरे चर्मक्लेदनादिना दुर्गन्धं दुर्मलिनं जलं तस्मिन् बिम्बिते सतीत्यनुषज्यते । अन्तरं भेदः अस्ति विद्यते किम् इत्याक्षेप: उभयत्रापि योज्यः । नान्तरम् अनुभूयते विद्वदविद्वत्साम्येनेत्याक्षेप्तुरभिप्रायः । एवं प्रतिबिम्बपक्षानङ्गीकारे भेदभ्रमस्यानव- काशं प्रदर्श्य अवच्छिन्नपक्षेऽपि तं दर्शयति काञ्चनेति ।\nकाञ्चनेन सुवर्णेन निर्मिता घटी कुम्भः काञ्चनघटी मृदा प्रसिद्धया\nगन्धादिगुणवत्या निर्मितः कुम्भः मृत्कुम्भः तयोस्ताभ्याम् अवच्छिन्नं यन्नभः तस्मिन्नन्तरम् अस्ति किम् इत्याक्षेपः । नास्त्येवेति तात्पर्यम्। अत्र उभयपक्षयोः प्रतिबिम्बयोः अवच्छिन्नयोर्वा बिम्बेन अनवच्छिन्नेन प्रतिबिम्बाभ्याम् अवच्छिन्नाभ्यां वा बिम्बस्य अनवच्छिन्नस्य प्रतिबिम्बयोरवच्छिन्नयोर्वा परस्परं भेदगन्धस्य न कदाचित् अवकाशः । \nव्यवहारभेदस्य उपाधिपरामर्शम् अन्तरेणाविभाव्यमानत्वात् । विचाराभाव- जीवनस्य द्वैतमिथ्याभ्रमस्य विचारवद्भिर्न वस्तुत्वम् अवसीयते । किन्तु विचारविकलैरेवेत्यतो विचारवता भवता कथम् उच्यते गच्छ गच्छेत्यभिप्रायः ।\nसम्प्रति दृष्टान्ते सोपाधिकयोरन्योन्यम् अनुपाधिकेन ताभ्यां तस्य च भेदाभावेऽपि उपाधिभूतयोरार्यावर्तादिपुण्यापुण्यक्षेत्रयोः अथ च तत्स्थगङ्गादिपुण्या- पुण्यजलस्य भेदस्य विद्यमानत्वात् ।\nदान्तिकेऽपि विप्रत्वाविप्रत्वजातिविशिष्टयोः स्थूलदेहयोः तत्संस्कार- तत्तदभावविशिष्टयोः अन्तःकरणयोश्च भेदस्यानुभूतत्वात्। विप्रत्वजाति- विशिष्टतत्संस्कारोपेतदेहतदन्तर्वर्त्यन्त:करणाभ्यां तज्जातिरहिततत्संस्कार- शून्यदेहतदन्त:करणयोः दूरीकरणेच्छा युक्तैवेति वदता शङ्कित इव पुनरप्यभ्यस्त- प्रपञ्चविधुरे परमात्मनि विज्ञाते न किञ्चिदन्यद्विद्यत इति ।\n'यत्र त्वस्य सर्वमात्मैवाभूत् तत् केन कं पश्ये' दित्यादिश्रुतिमवष्टम्भ्य- सर्वात्मकत्वम् आत्मनोऽनुभवन् उपाधिदृष्ट्यापि तद्दूरीकरणेच्छा न घटिष्यत इति प्रथमं विकल्पं परिहरति । प्रत्यग्वस्तुनीति । प्रातिलोम्येन मिथ्याध्य- स्तसर्वप्रपञ्चवैलक्षण्येन अञ्चति प्रकाशत इति प्रत्यक् परमात्मा स च वस्तु अनध्यात्मस्वभावत्वे सति कल्पितसमस्तवस्त्वधिष्ठानभूतः तस्मिन् प्रत्यग्वस्तुनि किं च निर्गतः प्रपञ्चरूपः तरङ्गो यस्मात् सहजानन्दावबोधाम्बुधेः सहजस्वभाव आनन्दः सुखम् अवबोधः स्फुरणं स्वभावभूतो न केनापि निर्वर्तितः आनन्दश्चासाववबोधश्चेति सहजानन्दावबोधः स एव अम्बुधिरिवाम्बुधिः अपर्यन्तत्वात् ।\nतस्मिन्निस्तरङ्गसहजा\nनन्दावबोधाम्बुधौ प्रत्यग्वस्तुनि अहम् इत्यनुभूयमाने सतीति शेषः । विप्रोऽयं द्विजातिः अध्ययनशीलः, श्वपचोऽयं चण्डालः पशुघातक इति। इयत्तापरिच्छेदशून्योऽयं, विभेदभ्रमः द्वैतभ्रान्तिः कुतस्सम्भवति न कुतोऽपीत्यर्थः । प्रत्यगेकरसस्य वस्तुनो निष्प्रपञ्चोक्तेरिति भावः ।\nएवं केवलपारमार्थिकदृष्टिम् अवलम्ब्य आक्षिप्तस्सन्नाचार्योऽयं देवस्तारकोपदेष्टा पूर्णपुरुषो विश्वेश्वरो भवितुम् अर्हतीति निश्चित्य यथोक्तम् एवमेतत् । एतादृशदृष्टिमत्सु भवादृशेषु नास्माकं चण्डालत्वादिप्रतीतिरित्यभिप्रेत्य जाग्रदित्यादिभिः पञ्चभिः श्लोकैः स्वानुभवं निरूपयति ।\nतत्र तावच्चतुर्षु वेदेषु यानि प्रसिद्धानि 'प्रज्ञानं ब्रह्म', 'अहं ब्रह्मास्मि' ‘तत्त्वमसि', ‘अयमात्मा ब्रह्म', इत्येवंरूपाणि क्रमेण ऋग्यजुस्सामाथर्वणोप- निषद्गतानि महावाक्यानि अर्थतोऽनुक्रामति जाग्रदित्यादिना-\n",
+          "malayalam_data": "ആകാശത്തിലെ രത്നം' ഗംഗാജലത്തിൽ പ്രതിഫലിക്കുമ്പോഴും ചേരിപ്രദേശത്തിലൂടെ ഒഴുകുന്ന അഴുക്കുചാലുകളിൽ പ്രതിഫലിക്കുമ്പോഴും അതിന് എന്തെങ്കിലും വ്യത്യാസമുണ്ടോ? ഒരു സ്വർണ്ണപാത്രത്തിലെ ആകാശത്തിനും മൺപാത്രത്തിലെ ആകാശത്തിനും ആകാശമെന്ന നിലയിൽ വല്ല വ്യത്യാസമുണ്ടോ? സ്വയം അസ്‌തിത്വരൂപമായ ബോധാനന്ദ സമുദ്രമാകുന്ന അന്തരാത്മാവിൽ വിചാരതരംഗങ്ങളെല്ലാം ഇല്ലാതാകുമ്പോൾ ഇത് ബ്രാഹ്മണനാണ് അല്ലെങ്കിൽ നായിനേയും മറ്റും തിന്നുന്ന ശ്വപചനാണ് എന്നുള്ള ഭ്രമജന്യമായ വ്യത്യാസങ്ങൾ എങ്ങിനെയാണ് ഉണ്ടാവുക"
+         }
+      
+        }
+    },
+    {
+      "sloka_id": 3,
+      "sloka_value": "जाग्रत्स्वप्नसुषुप्तिषु स्फुटतरा या संविदुज्जृम्भते\nया ब्रह्मादिपिपीलिकान्ततनुषु प्रोता जगत्साक्षिणी।\nसैवाहं न च दृश्यवस्त्विति दृढप्रज्ञापि यस्यास्ति चे-\nच्चाण्डालोऽस्तु स तु द्विजोऽस्तु गुरुरित्येषा मनीषा मम॥१॥\n",
+      "sloka_data": {
+        "padachedam":[
+         {
+          "padachedam_id": 1,
+          "padachedam_data": " जाग्रत्स्वप्नसुषुप्तिषु",
+          "padachedam_click_type": 2,
+          "padachedam_click_data": "s1p1.png"
+         },
+         {
+          "padachedam_id": 2,
+          "padachedam_data": "स्फुटतरा",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 3,
+          "padachedam_data": "या ",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 4,
+          "padachedam_data": " संवित्",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 5,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "संवित्+उज्जृम्भते[संवित्,उज्जृम्भते,संविदुज्जृम्भते,जश्त्व,झलां जशोऽन्ते (8.2.39) ]"
+         },
+         {
+          "padachedam_id": 6,
+          "padachedam_data": "उज्जृम्भते",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 7,
+          "padachedam_data": "या ",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 8,
+          "padachedam_data": "ब्रह्मादिपिपीलिकान्ततनुषु",
+          "padachedam_click_type": 2,
+          "padachedam_click_data": "s1p1.png"
+         },
+         {
+          "padachedam_id": 9,
+          "padachedam_data": "प्रोता ",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 10,
+          "padachedam_data": "जगत्साक्षिणी",
+          "padachedam_click_type": 2,
+          "padachedam_click_data": "s1p1.png"
+         },
+         {
+          "padachedam_id": 11,
+          "padachedam_data": "सा",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 12,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "सा+एव [सा,एव,सैव,वृद्धि,वृद्धिरेचि (6.1.88) ]"
+         },
+         {
+          "padachedam_id": 13,
+          "padachedam_data": "एव",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 14,
+          "padachedam_data": "एव",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 15,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "एव+अहं[ एव,अहं,एवाहं,सवर्णदीर्घ,अकः सवर्णे दीर्घः (6.1.101)]"
+         },
+         {
+          "padachedam_id": 16,
+          "padachedam_data": "अहं ",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 17,
+          "padachedam_data": "न ",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 18,
+          "padachedam_data": " च ",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 19,
+          "padachedam_data": "दृश्यवस्तु",
+          "padachedam_click_type": 2,
+          "padachedam_click_data": "s1p1.png"
+         },
+         {
+          "padachedam_id": 20,
+          "padachedam_data": "वस्तु",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 21,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "वस्तु+इति[वस्तु,इति,वस्त्विति,यण्,इको यणचि (6.1.77) ] "
+         },
+         {
+          "padachedam_id": 22,
+          "padachedam_data": "इति ",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 23,
+          "padachedam_data": "दृढप्रज्ञा",
+          "padachedam_click_type": 2,
+          "padachedam_click_data": "s1p1.png"
+         },
+         {
+          "padachedam_id": 24,
+          "padachedam_data": "दृढ -प्रज्ञा",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 25,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "दृढप्रज्ञा+अपि[ दृढप्रज्ञा,अपि,दृढप्रज्ञापि,सवर्णदीर्घ,अकः सवर्णे दीर्घः (6.1.101)]"
+         },
+         {
+          "padachedam_id": 26,
+          "padachedam_data": "अपि ",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 27,
+          "padachedam_data": "यस्य",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 28,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "यस्य+अस्ति[ यस्य,अस्ति,यस्यास्ति,सवर्णदीर्घ,अकः सवर्णे दीर्घः (6.1.101)]"
+         },
+         {
+          "padachedam_id": 29,
+          "padachedam_data": "अस्ति",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 30,
+          "padachedam_data": "चेत्",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 31,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "चेत्+चाण्डालः[ चेत्,चाण्डालः,चेच्चाण्डालः,जश्त्व -> श्चुत्व-> चर्त्व,झलां जशोऽन्ते (8.2.39)-> स्तोः श्चुना श्चुः (8.4.40)-> खरि च (8.4.55)]"
+         },
+         {
+          "padachedam_id": 32,
+          "padachedam_data": "चाण्डालः",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 33,
+          "padachedam_data": "चाण्डालः",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 34,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "चाण्डालः+अस्तु[ चाण्डालः,अस्तु,चाण्डालोऽस्तु,रुत्व -> उत्व-> गुण-> पूर्वरुप,ससजुषो रुः (8.2.66)-> अतो रोरप्लुतादप्लुते (6.1.113)-> आद् गुणः (6.1.87)-> एङः पदान्तादति (6.1.109)]"
+         },
+         {
+          "padachedam_id": 35,
+          "padachedam_data": "अस्तु ",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 36,
+          "padachedam_data": " सः",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 37,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "सः+ तु[सः,तु,स तु,विसर्गलोप-सन्धिः,एतत्तदोः सुलोपोऽकोरनञ्समासे हलि (6.1.132) ]"
+         },
+         {
+          "padachedam_id": 38,
+          "padachedam_data": " तु ",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 39,
+          "padachedam_data": "द्विजः",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 40,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": " द्विजः+अस्तु[द्विजः,अस्तु,द्विजोऽस्तु,रुत्व -> उत्व-> गुण-> पूर्वरुप,ससजुषो रुः (8.2.66)-> अतो रोरप्लुतादप्लुते (6.1.113)-> आद् गुणः (6.1.87)-> एङः पदान्तादति (6.1.109) ]"
+         },
+         {
+          "padachedam_id": 41,
+          "padachedam_data": "अस्तु",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 42,
+          "padachedam_data": "गुरुः",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 43,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "गुरुः+इति[गुरुः,इति,गुरुरिति,रेफ-सन्धिः,ससजुषो रुः (8.2.66) ]"
+         },
+         {
+          "padachedam_id": 44,
+          "padachedam_data": "इति",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 45,
+          "padachedam_data": "इति",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 46,
+          "padachedam_data": "+",
+          "padachedam_click_type": 1,
+          "padachedam_click_data": "इति+एषा[इति,एषा,इत्येषा,यण्,इको यणचि (6.1.77) ]"
+         },
+         {
+          "padachedam_id": 47,
+          "padachedam_data": "एषा ",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 48,
+          "padachedam_data": "मनीषा",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         },
+         {
+          "padachedam_id": 49,
+          "padachedam_data": "मम",
+          "padachedam_click_type": 3,
+          "padachedam_click_data": "nodata"
+         }
+        ],
+        "anvaya":[
+         {
+          "anvaya_id": 1,
+          "anvaya_data": "या",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "या -  या स्त्री 1 एक"
+         },
+         {
+          "anvaya_id": 2,
+          "anvaya_data": "जाग्रत्स्वप्नसुषुप्तिषु",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "जाग्रत्स्वप्नसुषुप्तिषु -  जाग्रत्स्वप्नसुषुप्ती  स्त्री 7 बहु"
+         },
+         {
+          "anvaya_id": 3,
+          "anvaya_data": "स्फुटतरा",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "स्फुटतरा - स्फुट तरप् स्त्री"
+         },
+         {
+          "anvaya_id": 4,
+          "anvaya_data": "संवित्",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "संवित् -  संविध् स्त्री 1 एक"
+         },
+         {
+          "anvaya_id": 5,
+          "anvaya_data": " उज्जृम्भते ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "उज्जृम्भते - उत्_जृभ् कर्तरि लट् प्र एक आत्मनेपदी जृभिँ भ्वादिः"
+         },
+         {
+          "anvaya_id": 6,
+          "anvaya_data": "या",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "या -  या स्त्री 1 एक"
+         },
+         {
+          "anvaya_id": 7,
+          "anvaya_data": "ब्रह्मादिपिपीलिकान्ततनुषु",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": " ब्रह्मादिपिपीलिकान्ततनुषु - ब्रह्मादिपिपीलिकान्ततनु पुं 7 बहु "
+         },
+         {
+          "anvaya_id": 8,
+          "anvaya_data": "जगत्साक्षिणी ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "जगत्साक्षिणी - जगत्सासाक्षिन् नपुं 2 द्वि"
+         },
+         {
+          "anvaya_id": 9,
+          "anvaya_data": "प्रोता",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "प्रोता - प्रु कर्तरि लुट् प्र एक आत्मनेपदी भ्वादिः"
+         },
+         {
+          "anvaya_id": 10,
+          "anvaya_data": "सा",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "सा - तद् सर्व स्त्री 1 एक"
+         },
+         {
+          "anvaya_id": 11,
+          "anvaya_data": " एव ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "एव - एव अव्य्"
+         },
+         {
+          "anvaya_id": 12,
+          "anvaya_data": "अहं ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अहं - अस्मद् सर्व 1 एक"
+         },
+         {
+          "anvaya_id": 13,
+          "anvaya_data": " न",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "न  - न अव्य्"
+         },
+         {
+          "anvaya_id": 14,
+          "anvaya_data": "च",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "च - च अव्य्"
+         },
+         {
+          "anvaya_id": 15,
+          "anvaya_data": "दृश्यवस्तु",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "दृश्यवस्तु - दृश्यवस्तु नपुं 1 एक"
+         },
+         {
+          "anvaya_id": 16,
+          "anvaya_data": "इति",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "इति - इति अव्य्"
+         },
+         {
+          "anvaya_id": 17,
+          "anvaya_data": "यस्य ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "यस्य - यद् सर्व पुं 6 एक"
+         },
+         {
+          "anvaya_id": 18,
+          "anvaya_data": "अपि",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अपि - अव्य्"
+         },
+         {
+          "anvaya_id": 19,
+          "anvaya_data": "दृढप्रज्ञा",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "दृढप्रज्ञा -  दृढप्रज्ञा स्त्री 1 एक"
+         },
+         {
+          "anvaya_id": 20,
+          "anvaya_data": "अस्ति",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अस्ति - अस् कर्तरि लट् प्र एक परस्मैपदी अदादिः"
+         },
+         {
+          "anvaya_id": 21,
+          "anvaya_data": "चेत्",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "चेत् -  अव्य्"
+         },
+         {
+          "anvaya_id": 22,
+          "anvaya_data": " सः",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": " सः - तद् सर्व पुं 1 एक"
+         },
+         {
+          "anvaya_id": 23,
+          "anvaya_data": "चण्डालः ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "चाण्डालः - चाण्डाल पुं 1 एक"
+         },
+         {
+          "anvaya_id": 24,
+          "anvaya_data": "अस्तु",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अस्तु - अव्य्"
+         },
+         {
+          "anvaya_id": 25,
+          "anvaya_data": "सः",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": " सः - तद् सर्व पुं 1 एक"
+         },
+         {
+          "anvaya_id": 26,
+          "anvaya_data": "तु ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": " तु -  अव्य्"
+         },
+         {
+          "anvaya_id": 27,
+          "anvaya_data": "द्विज ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": " द्विजः - द्विज पुं 1 एक"
+         },
+         {
+          "anvaya_id": 28,
+          "anvaya_data": "अस्तु",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "अस्तु - अव्य्"
+         },
+         {
+          "anvaya_id": 29,
+          "anvaya_data": " गुरु",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "गुरुः - गुरु पुं 1 एक"
+         },
+         {
+          "anvaya_id": 30,
+          "anvaya_data": "इति ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "इति - इति अव्य्"
+         },
+         {
+          "anvaya_id": 31,
+          "anvaya_data": " एषा",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "एषा - एतद् सर्व स्त्री 1 एक"
+         },
+         {
+          "anvaya_id": 32,
+          "anvaya_data": "मम ",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": " मम - अस्मद् सर्व अ 6 एक"
+         },
+         {
+          "anvaya_id": 33,
+          "anvaya_data": "मनीषा (अस्ति)",
+          "anvaya_click_type": 1,
+          "anvaya_click_data": "मनीषा - मनीषा स्त्री 1 एक"
+         }
+        ],
+        "vakyanam":
+         {
+          "english_data": "This indeed is my deep conviction: he who has realised that he is not the seen, but that he is the one Consciousness that illumines all experiences during the waking, dream and deep-sleep states, the one Consciousness that is the sole witness of the entire play of the universe, the one Consciousness which is the very life spark in all forms from the Creator down to the ant, he alone is my Guru, be he a sweeper, be he a brāhmana.",
+          "sanskrit_data": "अस्यायमर्थ:- यस्यापि कस्यचित्पुरुषविशेषस्य दृढप्रज्ञास्ति चेत्स पुरुषश्चण्डालोऽस्तु द्विजो वास्तु गुरुरित्येषा मम मनीषेत्यन्वयः । अत्र सैवाहं न च दृश्यवस्त्विति प्रज्ञायाः प्रकारः उक्तः । स्फुटतरेति संविदः प्रसिद्धिद्योतनार्थं जानामीत्यादिसंव्यवहारेषु प्रज्ञानस्य विजृम्भमाणत्वात् प्रज्ञानानुभवहीनस्य लोष्टवन्नरसमाकृतेः शास्त्रार्थविचारे (णा) ऽधिकाराच्च ।\nअथवा स्फुटतरेति संविदो नावृतत्वमुच्यते । तस्यास्सर्वाधिष्ठानतया सर्वप्रकाशकत्वेनावरणाज्ञानस्यापि भासकत्वात्।'तमेव भान्तमनुभाति सर्वमित्यत्र'श्रुतौ सर्वशब्देनावरणस्यापि विवक्षितत्वात् । चैतन्यप्रसिद्धिद्योतनं तु यच्छब्देन भवति ।\nननु यच्छब्देन चैतन्यस्य प्रसिद्धिर्विवक्षिता चेत्तर्हि सा प्रसिद्धिः क्वेत्याकाङ्क्षायामाह- जाग्रत्स्वप्नसुषुप्तिष्विति । इन्द्रियैरर्थोपलब्धिः जागरितम्, करणेषूपसंहृतेषु जागरितसंस्कार्यप्रत्ययः सविषयः स्वप्नः सर्वप्रकारज्ञानोपसंहारे बुद्धेः कारणात्मना अवस्थानं सुषुप्तिः इत्येवंलक्षणात्मिका जाग्रदाद्यवस्थाः प्रसिद्धाः।\nतासु प्रसिद्धास्ववस्थासु संविदपि प्रसिद्धा । नन्वेवं शास्त्रकृतपरिश्रमाणां संवित्प्रसिद्धिरस्तु, तदतिरिक्तानां कथमिति चेदुच्यते । शब्दान्तरेण व्यवहृतत्वादिति । संवित् प्रतिज्ञानं चैतन्यं बोधः । साक्षी कूटस्थः स्वयमात्मेत्येवंप्रकारकैश्शब्दै- र्व्यवहर्तुम् असंस्कृता अपि देशभाषादिना सांकेतिकशब्दैरात्मानं चैतन्यरूपं सर्वव्यवहारसाधकत्वेन व्यवहरन्ति ।\nज्ञापकं च तेषां वर्तमानं विजानामीत्यादि । तत्र विजानामीत्यादिव्यवहारो बोधैकहेतुक इत्यनुमानादिना प्रमाणेनाविजानन्तोऽपि प्रसिद्ध्या जानन्त्येव । इदानीं ज्ञानमस्ति व्यवहारोऽप्यस्ति । इदानीं ज्ञानं तु नास्ति व्यवहारोऽपि नास्ति इत्यन्वयव्यतिरेकज्ञानं विवेकिनां गुरुमुखात्सिद्धमपि अविवेकिनामनुभवत एव सिद्धम्।\nतद्यथा-'चन्द्रमा भगवतो नेत्रं हृदयमि 'त्यादिरूपेणाविज्ञातोऽपि मूढैर्जात एव स्वप्रकाशत्वेन, शिशिरकरत्वेन, मण्डलाद्याकारेण च। एवमेव संवित् स्वतस्सिद्धस्वप्रकाशेत्यादिना लिङ्गसिद्धकान्त्यादिविशेषानुभवविवेकेनाज्ञाताऽपि संविद्व्यवहारसाधकत्वप्राधान्येन विज्ञाता भवति ।\nतस्मात् विवेकविकलानाम् अप्यात्मसिद्धिरस्तीति बोध्यम्। व्यवहार- बलेनेत्यभिप्रेत्याह- उज्जृम्भत इति । उत् अधिकं यथा तथा जृम्भते उल्लसति व्यवहारहेतुतया प्रकाशत इत्यर्थः । यद्वा उदपि जृम्भत इति हेतुः संवित्प्रसिद्धौ विद्वत्स्वविद्वत्सु च अहम् इति सर्वदा भानात् ।\nविद्वांसो हि वयं स्म जाता इति जानन्ति, अविद्वांसोऽपि तथा । किन्तु प्रकारान्तरेण अत एव विद्वदविद्वद्भेदो जाग्रदित्यारभ्य उज्जृम्भत इत्यन्तेन इयता ग्रन्थसन्दर्भेण 'प्रज्ञानं ब्रह्मेति' महावाक्यस्य प्रज्ञानशब्दस्य अर्थः उक्तः।\nअथ ब्रह्मशब्दस्यार्थमाह-या ब्रह्मादिपिपीलिकान्ततनुषु प्रोता जगत्साक्षिणीति ।ब्रह्मा चतुर्मुखः आदिः येषां ते ब्रह्मादयः पिपीलिका कीटविशेषः अन्तः येषां ते पिपीलिकान्ताः ब्रह्मादयश्च ते पिपीलिकान्ताश्च ब्रह्मादिपिपीलिकान्ताः प्राणिनः तेषां तनवः शरीराणि तासु जगतः प्रपञ्चस्य साक्षिणी साक्षादव्यवधानेन ईक्षणकर्तीति हेतो: प्रोता अनुगततया वर्तमाना या प्रसिद्धा संवित् व्याख्याता । एवं ब्रह्मशब्दस्य परिपूर्णत्वमर्थमुक्त्वा तेन प्रत्यगात्मन एकत्वमभिवदति सैवाहम् इति ।\nसैव प्रसिद्धैव संविदहम् अहम्पदलक्षितः अहम्प्रत्ययव्यवहारयोग्यश्च चिदात्मा । न च दृश्यवस्तु दृशा व्याप्यत इति दृश्यं जगत्तद्वस्तु जगतो वस्तुत्वं कल्पितसम्बन्धेन परमार्थवस्तुनि विद्यमानम् उपचर्यते। जगतः कल्पितत्वेन वस्तुतो वस्तुत्वाभावेऽपि व्यवहारसत्यत्वाङ्गीकारात् योग्यं वस्तुत्वमस्तीत्यभिप्रायः ।\nतदहं न भवामि दृश्यवस्तुनो जडत्वात् परिच्छिन्नत्वात् इति दृढप्रज्ञा दृढा संशयासम्भावनादिभिरबाधिता प्रज्ञा मतिः, अज्ञानां देहात्मप्रज्ञेव यस्य कस्यचिदपि पुरुषविशेषस्य श्रुत्याऽऽचार्यप्रसादमहिम्ना अस्ति विद्यते चेद्यदि स तु पुरुषश्चण्डालः पशुघातकोऽस्तु भवतु अथवा जात्या विप्रोऽस्तु, गुरुस्सर्वज्ञो भगवानिति । 'ज्ञानी त्वात्मैव मे मतिः' इति स्मृतेः । 'तस्मादात्मज्ञमर्चयेत् भूतिकामः' इत्यादिश्रुतेश्च । एषा एतादृशी मम मनीषा मदीया बुद्धिरनुभव इति यावत् ।\nइदमन्त्राकृतम्-पुरुषधौरेयो जाग्रत्स्वप्नसुषुप्तिषु यथा स्फुटतरा संविदुज्जृम्भत इति इयता ग्रन्थेनोक्तशब्दार्थ बुद्धवा तस्यार्थस्य या ब्रह्मादिपिपीलिकान्ततनुषु प्रोता जगत्साक्षिणीति इयता ग्रन्थेनोक्तब्रह्मशब्दार्थतत्त्वं विज्ञाय तद्विज्ञानस्य फलभूतं सैवाहं, न च दृश्यवस्त्विति इयता ग्रन्थनोक्तवाक्यार्थानुभवं कुर्वन् स्थितप्रज्ञो भूत्वा समाहितस्सन् वर्तेत न तस्मिन् मम चण्डालत्वादिविपरीतज्ञानं किन्तु ब्रह्मत्वमतिरेव ।\n'ब्रह्म वेद ब्रह्मैव भवतीति' श्रुतेरिति यद्यपि सर्वमात्मेति विज्ञानात् पञ्चमत्वादिप्रतीतिः न पारमार्थिकी तथापि व्यवहारसाङ्कर्यानापत्तये व्यवहारे भट्टनय इति न्यायात् भावनया स्वात्मनस्सर्वात्मकत्वम् अनुभवन् क्रियया यावत्प्रारब्धं द्वैतव्यवहारे यथापूर्वं यथाशास्त्रं विदुषा वर्तितव्यमिति च 'लोकसंग्रहमेवार्थ संपश्यन्कर्तुमर्हसि' इति स्मृतेराचार्यस्याभिप्रायान्तरं विज्ञायते ।\nननु चण्डालोऽस्तु स तु द्विजोऽस्तु गुरुरित्यभियुक्तैर्वक्तुमुचितमिति चेन्न आक्षिप्तुर्देवस्य चण्डालवेषधारित्वात् आक्षेपस्यापि विप्रोऽयं श्वपचोऽयमित्येवं- रूपत्वात् उक्तस्योक्त्यनुसारित्वात् ।\nअथ परमार्थवस्तुन उपनिषदेकसमधिगम्यत्वेन वेदाधिकारिणामेव तदनुभवस्तथापि यः कश्चन योगभ्रष्टो 'गहना कर्मणो गतिरिति' वचनात् किश्चित्कर्मशेषतया चण्डालदेहधार्यपि भवेन्नामैतस्मिन्जन्मनि न तस्याध्ययनापेक्षा जन्ममात्रेणैव प्रारब्धकर्मणो नष्टत्वात् भूतपूर्वगत्या तस्य ब्रह्मानुभवस्य सिद्धत्वात् न तस्मिन् मम चण्डालत्वादिभ्रमः ।\n'नहि ज्ञानेन सदृशं पवित्रमिह विद्यत इति' स्मृतेः । 'अत्र पिता अपिता माता अमाता लोका अलोका देवा अदेवा वेदा अवेदास्स्तेनो अस्तेनो भवति भ्रूणहा अभ्रूणहा चण्डालो अचण्डाल इत्यादिश्रुतेश्च' ।\nइदानीं यजुर्वेदोपनिषद्गताहं ब्रह्मास्मीति महावाक्यार्थमभिवर्णयति ब्रह्मैवाहमिति ।\n",
+          "malayalam_data": "ജാഗ്രദ് സ്വപ്നസുഷുപ്‌തികളിൽ ഏതൊരു ചൈതന്യ മാണോ സ്‌പഷ്ടമായി പ്രകാശിച്ചുകൊണ്ടിരിക്കുന്നത് ഏതൊന്നാണോ സൃഷ്ടാവു മുതൽക്ക് ഇങ്ങോട്ടുള്ള ഒരു ഉറുമ്പു വരെയുള്ള ജീവജാലങ്ങളുടെ ശരീരങ്ങളെ ജഗത്‌സാക്ഷിയായ ചൈതന്യത്തിൽ കോർക്കപ്പെട്ടിരിക്കുന്നത് ആ ചൈതന്യമായ അദ്ദേഹം തന്നെയാണ് ഞാനെന്നും, അതല്ലാതെ കാണപ്പെട്ട ദൃശ്യവസ്തുക്കളൊന്നും അല്ലെന്നും ഉള്ള ദൃഢജ്ഞാനം ഏതൊ രുവനാണോ സാക്ഷാത്കരിച്ചിരിക്കുന്നത് അങ്ങനെയുള്ള ആൾ ഒരു ചണ്ഡാലനോ, ഒരു ബ്രാഹ്മണനോ ആരായാലും ശരി അദ്ദേഹം തന്നെയാണ് എൻ്റെ ഗുരുനാഥൻ. ഇതാണ് എന്റെ ദൃഢമായ തീരുമാനം.\n"
+         }
+        }
+    },
+    {
+      "sloka_id": 4,
+      "sloka_value": "ब्रह्मैवाहमिदं जगच्च सकलं चिन्मात्रविस्तारितं\nसर्वं चैतदविद्यया त्रिगुणयाऽशेषं मया कल्पितम्।\nइत्थं यस्य दृढा मतिः सुखतरे नित्ये परे निर्मले\nचाण्डालोऽस्तु स तु द्विजोऽस्तु गुरुरित्येषा मनीषा मम।।\n",
+      "sloka_data": {
+        "padachedam": [],
+        "anvaya": [],
+        "vakyanam": {
+          "english_data": "",
+          "sanskrit_data": "",
+          "malayalam_data": ""
+        }
+      }
+    },
+    {
+      "sloka_id": 5,
+      "sloka_value": "शश्वन्नश्वरमेव विश्वमखिलं निश्चित्य वाचा गुरो-\nर्नित्यं ब्रह्म निरन्तरं विमृशता निर्व्याजशान्तात्मना।\nभूतं भाति च दुष्कृतं प्रदहता संविन्मये पावके\nप्रारब्धाय समर्पितं स्ववपुरित्येषा मनीषा मम॥\n",
+      "sloka_data": {
+        "padachedam": [],
+        "anvaya": [],
+        "vakyanam": {
+          "english_data": "",
+          "sanskrit_data": "",
+          "malayalam_data": ""
+        }
+      }
+    },
+    {
+      "sloka_id": 6,
+      "sloka_value": "या तिर्यङ्नरदेवताभिरहमित्यन्तः स्फुटा गृह्यते\nयद्भासा हृदयाक्षदेहविषया भान्ति स्वतोऽचेतनाः।\nतां भास्यैः पिहितार्कमण्डलनिभां स्फूर्तिं सदा भावय-\nन्योगी निर्वृतमानसो हि गुरुरित्येषा मनीषा मम॥\n",
+      "sloka_data": {
+        "padachedam": [],
+        "anvaya": [],
+        "vakyanam": {
+          "english_data": "",
+          "sanskrit_data": "",
+          "malayalam_data": ""
+        }
+      }
+    },
+    {
+      "sloka_id": 7,
+      "sloka_value": "यत्सौख्याम्बुधिलेशलेशत इमे शक्रादयो निर्वृता\nयच्चित्ते नितरां प्रशान्तकलने लब्ध्वा मुनिर्निर्वृतः।\nयस्मिन्नित्यसुखाम्बुधौ गलितधीर्ब्रह्मैव न ब्रह्मविद्\nयः कश्चित्स सुरेन्द्रवन्दितपदो नूनं मनीषा मम॥\n",
+      "sloka_data": {
+        "padachedam": [],
+        "anvaya": [],
+        "vakyanam": {
+          "english_data": "",
+          "sanskrit_data": "",
+          "malayalam_data": ""
+        }
+      }
+    }
+  ]
+}
